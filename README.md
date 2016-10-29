@@ -1,28 +1,28 @@
-# H1 **API work (Twitter, Spotify, and OMDB) with node.js**
+# **API work (Twitter, Spotify, and OMDB) with node.js**
 
-## H2 4 different command possibilites after npm install
+## 4 different command possibilites after npm install
 
 1. **Red example: node liri.js spotify [song title]**
 
-⋅⋅* uses the Spotify API to get information about the user specified song
+  * uses the Spotify API to get information about the user specified song
 
 
 
 2. **Green example: node liri.js movies [movie title]**
 
-⋅⋅* uses the OMDB API to get information about user input movie
+  * uses the OMDB API to get information about user input movie
 
 
 
 3. **Blue example: node liri.js twitter**
 
-⋅⋅* uses the Twitter API and reads the last 20 tweets from a user already specified in the code
+  * uses the Twitter API and reads the last 20 tweets from a user already specified in the code
 
 
 
 4. **Purple example: node liri.js readit**
 
-⋅⋅* reads the random.txt file and does what it says
+  * reads the random.txt file and does what it says
 
 
 
