@@ -1,0 +1,25 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephorpilla/nodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephorpilla/nodeapp/issues"
+  },
+  "homepage": "https://github.com/stephorpilla/nodeapp#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.76.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
