@@ -1,31 +1,31 @@
 # nodeapp
-API work (Twitter, Spotify, and OMDB) with node.js
+**API work (Twitter, Spotify, and OMDB) with node.js**
 
-npm install
+- npm install
 
 4 different commands
 
-Red example: node liri.js spotify [song title]
+**Red example: node liri.js spotify [song title]**
 
--uses the Spotify API to get information about the user specified song
-
-
-
-Green example: node liri.js movies [movie title]
-
--uses the OMDB API to get information about user input movie
+- uses the Spotify API to get information about the user specified song
 
 
 
-Blue example: node liri.js twitter
+**Green example: node liri.js movies [movie title]**
 
--uses the Twitter API and reads the last 20 tweets from a user already specified in the code
+- uses the OMDB API to get information about user input movie
 
 
 
-Purple example: node liri.js readit
+**Blue example: node liri.js twitter**
 
--reads the random.txt file and does what it says
+- uses the Twitter API and reads the last 20 tweets from a user already specified in the code
+
+
+
+**Purple example: node liri.js readit**
+
+- reads the random.txt file and does what it says
 
 
 
