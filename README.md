@@ -1,26 +1,26 @@
 # **API work (Twitter, Spotify, and OMDB) with node.js**
 
-## 4 different command line search possibilites after npm install
+## 4 different command line search possibilites after `npm install`
 
-1. **Red example: node liri.js spotify [song title]**
+1. **Red example: `node liri.js spotify [song title]`**
 
   * Uses the [Spotify Web API](https://developer.spotify.com/web-api/) to get information about the user specified song
 
 
 
-2. **Green example: node liri.js movies [movie title]**
+2. **Green example: `node liri.js movies [movie title]`**
 
   * Uses the [OMDb API](https://www.omdbapi.com/) to get information about user input movie
 
 
 
-3. **Blue example: node liri.js twitter**
+3. **Blue example: `node liri.js twitter`**
 
   * Uses the [Twitter API](https://dev.twitter.com/rest/reference/get/statuses/user_timeline) (GET statuses/user_timeline) and reads the last 20 tweets from a user already specified in the code
 
 
 
-4. **Purple example: node liri.js readit**
+4. **Purple example: `node liri.js readit`**
 
   * Reads the random.txt file and does what it says. My random.txt file says 'spotify, "Yellow"' so the program will run the Spotify command and retrieve data for the Coldplay song
 
